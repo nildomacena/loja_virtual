@@ -9,9 +9,7 @@ class HomeTab extends StatelessWidget {
             gradient: LinearGradient(colors: [
           Color.fromARGB(255, 211, 118, 130),
           Color.fromARGB(255, 253, 181, 168),
-        ], 
-        begin: Alignment.topLeft, 
-        end: Alignment.bottomRight)),
+        ], begin: Alignment.topLeft, end: Alignment.bottomRight)),
       );
     }
 
@@ -25,9 +23,9 @@ class HomeTab extends StatelessWidget {
               snap: true,
               backgroundColor: Colors.transparent,
               elevation: 0.0,
-              flexibleSpace:  FlexibleSpaceBar(
+              flexibleSpace: FlexibleSpaceBar(
                 title: const Text("Novidades"),
-              centerTitle: true,
+                centerTitle: true,
               ),
             )
           ],
