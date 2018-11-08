@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "439853762008",
+    "firebase_url": "https://lojaflutter-cca23.firebaseio.com",
+    "project_id": "lojaflutter-cca23",
+    "storage_bucket": "lojaflutter-cca23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439853762008:android:a33f158875d052db",
+        "android_client_info": {
+          "package_name": "com.hagios.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439853762008-hdd29h9ja7vpu9hthv3rgplhhtd7rnvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6vyCHzYWKCgKntkrhhkm0BYiUW9jMHZc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
